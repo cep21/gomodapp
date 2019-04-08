@@ -1,6 +1,6 @@
 package main
 
-import "github.com/cep21/gomodlib/v2"
+import "github.com/cep21/gomodlib"
 
 func main() {
 	gomodlib.Test()

@@ -1,0 +1,5 @@
+github.com/cep21/gomodlib v2.3.0+incompatible h1:EmgO91sLUtUlapPz8xP/jY/Aleg5NXHM+ix1dQwUsco=
+github.com/cep21/gomodlib/v2 v2.3.0 h1:SzStucF/8VQB7WDCp5/Zbrx6ol17WHRjzcAcQB6Og+s=
+github.com/cep21/gomodlib/v2 v2.3.0/go.mod h1:IjaNPesfxU/NI1jdxChzYVDlgQbZC42bTYNZKE7alEQ=
+github.com/cep21/gomodlib/v3 v3.0.0 h1:yIoUXaVYQHsCtz4o3YfFKY9G5XTFMCutlPFDrVJ8GzI=
+github.com/cep21/gomodlib/v3 v3.0.0/go.mod h1:eqrmvEwdPCr3TK98jrX3nFL4/gO/usZGjo4sGs0nem8=
